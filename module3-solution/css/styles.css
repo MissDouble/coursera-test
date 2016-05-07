@@ -1,0 +1,25 @@
+
+.navbar-brand {
+   font-size: 1.8em;
+   color: #CD5C5C;
+}
+
+#collapsable-nav {
+	background-color: #F5F5F5;
+}
+
+#nav-list {
+   text-align: center;
+}
+
+hr {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 0;
+  border-top: 1px solid #AAAAAA;
+}
+
+.box {
+	background-color: #FFE4B5;
+	padding: 10px;
+}
